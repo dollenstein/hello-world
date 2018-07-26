@@ -1,2 +1,5 @@
 # hello-world
-my first creation
+Szevasztok!
+
+Nem tudom, mi lesz ebbol.
+Egyelore csak tanulmanyozom.
